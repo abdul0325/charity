@@ -6,7 +6,7 @@ import CampaignHeader from "../_components/campaign/CampaignHeader"
 import CTASection from "../_components/campaign/CTASection"
 import HowItWorks from "../_components/campaign/HowItWorks"
 import Testimonials from "../_components/campaign/Testimonials"
-
+//component
 export default function CampaignsPage() {
   return (
     <div>
